@@ -1,1 +1,1 @@
-# Python_SQL_Assignment_1
+# This repository contains basic Python problems designed to help learners practice their Python programming skills. The problems range from beginner to intermediate levels, and they are designed to improve your understanding of key concepts like loops, conditionals, functions, and data structures.
